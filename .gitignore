@@ -1,0 +1,26 @@
+# 編譯產物
+*.class
+*.jar
+target/
+build/
+out/
+
+# IDE 設定
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 敏感資訊
+.env
+config/secrets.yml
+
+# 日誌
+*.log
+logs/
